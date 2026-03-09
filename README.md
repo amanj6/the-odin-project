@@ -8,7 +8,6 @@ It contains the projects, exercises, and experiments I completed while working t
 
 ### Foundations
 
-* Recipes
 - [Recipes](./foundations/recipes)
 * Landing Page
 * JavaScript Basics
